@@ -7,4 +7,8 @@ I den første phase skal der en form for tæller på siden. Den starter på 5 og
 ___
 
 ## **Phase 2**
-I den anden phase skal der blive udskrevet en API liste med informationer til HTML dokumentet. Vælg en API du gerne vil udskrive informationer fra denne her side (https://github.com/toddmotto/public-apis/). Gerne en API som ikke kræver en APIKey eller OAuth. Kunne f.eks. udskrive information fra Star Wars API'en
+I den anden phase skal der blive udskrevet en API liste med informationer til HTML dokumentet. Gerne lokalt for at skåne serveren. Vælg en API du gerne vil udskrive informationer fra denne her side (https://github.com/toddmotto/public-apis/). Gerne en API som ikke kræver en APIKey eller OAuth. Kunne f.eks. udskrive information fra Star Wars API'en
+
+___
+
+## **Phase 3**
