@@ -23,4 +23,12 @@ Tredje phase går ud på at skrive information fra objekter til HTML
 - Punkt 1: Som det første skal du definere en variabel og oprette et objekt (f.eks person1) og inkludere ting såsom: navn, efternavn, adresse, arbejde
 - Punkt 2: Gør det samme bare for to nye
 - Punkt 3: Opret en div i HTML dokumentet og giv det et id
-- Punkt 4: Opret en funktion og få objekterne udskrevet til HTML dokumentet 
+- Punkt 4: Opret en funktion og få objekterne udskrevet til HTML dokumentet
+
+___
+## **Phase 4**
+Fjerde phase handler om at udskrive arrays hvor man tilføjer et li element i en funktion til at udskrive det som en liste
+- Punkt 1: Start med at oprette et array og giv det et navn (f.eks navne, bilmaerker eller noget andet)
+- Punkt 2: Tilføj 4 værdier til dit array
+- Punkt 3: Opret en div hvor det kan blive udskrevet
+- Punkt 4: Lav en funktion der kan få det udskrevet som li elementer i HTML dokumentet
