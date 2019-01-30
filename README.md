@@ -1,4 +1,4 @@
-# CrazyTown-JesperOlsen-Opgave
+# Crazy Town Opgave af Jesper Olsen
 
 ## **Phase 1**
 
